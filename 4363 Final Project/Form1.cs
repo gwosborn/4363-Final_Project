@@ -21,5 +21,10 @@ namespace _4363_Final_Project
         {
             MessageBox.Show("We are family");
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }
