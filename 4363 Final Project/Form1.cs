@@ -16,5 +16,10 @@ namespace _4363_Final_Project
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("We are family");
+        }
     }
 }
